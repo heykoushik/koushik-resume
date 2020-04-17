@@ -1,0 +1,11 @@
+p {
+    color: black;
+    font-size: 200%;
+    font-style: oblique
+}
+
+h {
+    color: rebeccapurple;
+    font-size: 300%;
+    font-style: italic;
+}
